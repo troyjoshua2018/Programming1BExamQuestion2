@@ -1,0 +1,9 @@
+DATA LOG
+**************************************
+Customer Name: John Paul
+Product: Restonic Barbados
+VAT: R 180.0
+COMMISSION: R 60.0
+TOTAL: R 1440.0
+**************************************
+
